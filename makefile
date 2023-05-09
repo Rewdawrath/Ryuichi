@@ -1,4 +1,4 @@
-DEPS= New
+DEPS= Ryuichi
 
 compile: main.c 
 	 gcc main.c -o $(DEPS)
